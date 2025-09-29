@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "iKWfYyrq+ap5t2Op9qfQ7ghdfWVdnz+JbHgSk8QjDQ8=",
+  "Source": "DocumentVectorStore",
+  "BasePath": "_content/DocumentVectorStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DocumentVectorStore/wwwroot",
+      "Source": "DocumentVectorStore",
+      "ContentRoot": "/Users/prathamgauswami/Documents/CurrentProject/DocumentVectorStore/wwwroot/",
+      "BasePath": "_content/DocumentVectorStore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/prathamgauswami/Documents/CurrentProject/DocumentVectorStore/wwwroot/index.html",
+      "SourceId": "DocumentVectorStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/prathamgauswami/Documents/CurrentProject/DocumentVectorStore/wwwroot/",
+      "BasePath": "_content/DocumentVectorStore",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
