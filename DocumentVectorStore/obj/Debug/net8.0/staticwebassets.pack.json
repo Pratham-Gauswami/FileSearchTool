@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/prathamgauswami/Documents/CurrentProject/DocumentVectorStore/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.DocumentVectorStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.DocumentVectorStore.props",
+      "PackagePath": "build\\DocumentVectorStore.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.DocumentVectorStore.props",
+      "PackagePath": "buildMultiTargeting\\DocumentVectorStore.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.DocumentVectorStore.props",
+      "PackagePath": "buildTransitive\\DocumentVectorStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
